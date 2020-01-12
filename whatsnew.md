@@ -1,10 +1,8 @@
 # What's new in blackflow.
 
-
-
 ## In short, we greatly improved cloaking, tracking and usability
 
-
+![2020-01-12 15.28.32.gif](/Users/yoann/Desktop/2020-01-12 15.28.32.gif)
 
 ### Better cloaking :
 
@@ -14,31 +12,21 @@
 
 - cutting edge cloaking method: On top of that, we now offers new options with reverse proxy ( fully mirroring exernal website ), curl, and redirection ( yes it's actually works better than shopify / github on facebook lately )
 
-
-
 ### Better tracking:
 
 previously we relied entierly on tracking users client side ( with js ), but we realize that depending of the device, we were missing some of your traffic. So now we also track server side for 100% accuracy ( same as other trackers but with the benefit of no redirection ). We won't miss any visits or click! 
-
-
 
 ### Better useability
 
 we are always working on making blackflow simpler and easier to use. Whats noticeable lately is the stats, new layout and viewing user behavior got easier
 
-
-
 **Case study librabry**
 
 ****We now make it easy to access our last case study, so you are sure to stay on top of the game and profit from the latest opportunity
 
-
-
 What's new 
 
 Blackflow is still in beta are building new features every week. We now give a what's new list so we can get your feedback on our advancement.
-
-
 
 ## Whats coming next week
 
@@ -46,8 +34,4 @@ Blackflow is still in beta are building new features every week. We now give a w
 
 - case study for skin and CBD on native
 
-
-
 Stay tuned
-
-

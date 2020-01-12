@@ -1,8 +1,8 @@
 # What's new in blackflow.
 
-# 
 
-![2020-01-12 15.28.32.gif](/Users/yoann/Desktop/2020-01-12 15.28.32.gif)
+
+![2020-01-12 15.28.32.gif](01/2020-01-12 15.28.32.gif)
 
 ### Better cloaking :
 

@@ -1,6 +1,6 @@
 # What's new in blackflow.
 
-## In short, we greatly improved cloaking, tracking and usability
+# 
 
 ![2020-01-12 15.28.32.gif](/Users/yoann/Desktop/2020-01-12 15.28.32.gif)
 

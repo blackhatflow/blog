@@ -21,6 +21,10 @@ In short, we take care of the backend so you just focus on your traffic.*
 - we now have 3 protection layers. Blackflow chained with both **Leadcloak and Traffic armor**. The reason is that their IP database is slightly different, and combining them assure that we just get the best cloaking ever.
   
   It's an extra step for us, but we know it means a lot to you, if your account can run longer and spend more.
+  
+  
+  
+  ![design.png](whatsnew/design.png)
 
 - cutting edge cloaking method: We now have **reverse proxy**(  fully mirroring an exernal website to use it as safe page ), curl, and redirection ( and lately, it's actually works better than shopify on facebook! )
 

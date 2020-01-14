@@ -1,10 +1,10 @@
-What's new in blackflow
+What's new
 
 # What's blackflow?
 
 *Blackflow is the quickest way to get a profitable campaign. It's an all in one tool to promote blackhat offers with cloaking, funnel and analytics - nothing to set up.*
 
-*In short, we take care of the backend, so you just focus on your traffic.*
+In short, we take care of the backend, **so you just focus on your traffic.**
 
 <br><br>
 
@@ -14,9 +14,15 @@ ____
 
 ## What's new - 14 January 2020
 
-#### Better cloaking 🛡
 
-- we now have 3 protection layers. Blackflow chained with both **Leadcloak and Traffic armor**. The reason is that their IP database is slightly different, and combining them assure that we just get the best cloaking ever.
+
+Summing things up: cloaking and tracking improvment, better UI and some nice tools to make blackflow easier.
+
+
+
+#### 1) Better cloaking 🛡
+
+- we now have 3 protection layers. Blackflow chained with both **Leadcloak and Traffic armor**. The reason is that what they check and their IPs database is slightly different, and combining them assure that we just get the best cloaking ever.
   
   It's an extra step for us, but we know it means a lot to you, if your account can run longer and spend more.
   
@@ -26,13 +32,13 @@ ____
 
 <br>
 
-#### Better tracking 🔗
+#### 2) More accurate tracking 🔗
 
 Tracking just got more accurate! Previously we tracked users client side using js, we realized that on some device we couldn't track up to 10% of your traffic. Now **we also track server side** for 100% accuracy ( same as other trackers but with the benefit of no redirection ). We won't miss any visits or click! 
 
 <br><br>
 
-#### Even Easier 😛😛
+#### 3) Even Easier 😛😛
 
 We are always working on making blackflow easier to use. 
 
@@ -44,7 +50,7 @@ Check the new stats dashboard to see your users behavior.
 
 <br><br>
 
-### Cases studies Library
+### 4) Cases studies Library
 
 We now make it easy to access our last case studyies,  so you are sure to stay on top of the game and profit from the latest opportunities
 
@@ -52,7 +58,7 @@ We now make it easy to access our last case studyies,  so you are sure to stay o
 
 <br><br>
 
-### Updated features 🆕
+### 5) Updated features 🆕
 
 Blackflow is still in beta and we are building new features every week. Stay updated with this quick view:
 
@@ -60,7 +66,7 @@ Blackflow is still in beta and we are building new features every week. Stay upd
 
 <br><br>
 
-### Know how 😎- get the most of blackflow in 30s
+### 6) Know how 😎- get the most of blackflow in 30s
 
 ![howto.gif](whatsnew/howto.gif)
 
@@ -70,7 +76,7 @@ ____
 
 <br>
 
-## Whats coming
+## Whats Coming Next
 
 - case study on crypto for FB, Google
 

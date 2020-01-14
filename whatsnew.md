@@ -6,19 +6,13 @@ What's new
 
 In short, we take care of the backend, **so you just focus on your traffic.**
 
-<br><br>
-
 ____
 
 <br>
 
 ## What's new - 14 January 2020
 
-
-
 Summing things up: cloaking and tracking improvment, better UI and some nice tools to make blackflow easier.
-
-
 
 #### 1) Better cloaking 🛡
 
@@ -85,8 +79,6 @@ ____
   <br>
 
 ____
-
-
 
 <br><br><br>
 

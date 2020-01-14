@@ -1,8 +1,22 @@
 # What's new in blackflow
 
-## What's new - 14 January 2020
+---
 
-### Better cloaking :
+***What's Blackflow?***
+
+*Blackflow is the quickest way to run a profitable campaign. It's an all in one tool to promote blackhat offers with cloaking, funnel and analytics. In short, we take care of the backend so you just focus on your traffic.*
+
+---
+
+
+
+
+
+# What's new - 14 January 2020
+
+
+
+#### Better cloaking :
 
 - we now have 3 protection layers. Blackflow chained with both **Leadcloak and Traffic armor**. The reason is that their IP database is slightly different, and combining them assure that we just get the best cloaking ever.
   
@@ -10,13 +24,13 @@
 
 - cutting edge cloaking method: On top of that, we now offers new options with **reverse proxy **( fully mirroring exernal website ), curl, and redirection ( yes it's actually works better than shopify / github on facebook lately )
 
-### Better tracking:
+#### Better tracking:
 
-previously we relied entierly on tracking users client side ( with js ), but we realize that depending of the device, we were missing some of your traffic. So no/w **we also track server side** for 100% accuracy ( same as other trackers but with the benefit of no redirection ). We won't miss any visits or click! 
+Tracking just got more accurate! Previously we tracked users client side using js, we realized that on some device we couldn't track up to 10% of your traffic. Now **we also track server side** for 100% accuracy ( same as other trackers but with the benefit of no redirection ). We won't miss any visits or click! 
 
-### Better useability
+#### Better useability
 
-we are always working on making blackflow simpler and easier to use. Whats noticeable lately is the stats, new layout and viewing user behavior got easier
+We are always working on making blackflow simpler and easier to use. Whats noticeable lately is the stats, new layout and viewing user behavior got easier
 
 ![stats.gif](whatsnew/stats.gif)
 
@@ -50,8 +64,10 @@ Stay tuned
 
 ____
 
-## What's Blackflow?
 
-> Blackflow is the quickest way to run a profitable campaign. It's an all in one tool to promote blackhat offers with cloaking, funnel and analytics. In short, we take care of the backend so you just focus on your traffic.
+
+
+
+
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfLMo_1KjNKLT4ZfYUFqKi5ZdJWI-MDgwhYDbVDM8EVC2kERQ/viewform?embedded=true" width="640" height="1065" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

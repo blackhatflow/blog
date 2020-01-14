@@ -30,11 +30,11 @@ Tracking just got more accurate! Previously we tracked users client side using j
 
 <br><br>
 
-#### Easier 😛😛
+#### Even Easier 😛😛
 
 We are always working on making blackflow easier to use. 
 
-You migh have see the new layout of stats, that make viewing user behavior easier
+Check the new stats dashboard to see your users behavior.
 
 ![stats.gif](whatsnew/stats.gif)
 
@@ -42,7 +42,7 @@ You migh have see the new layout of stats, that make viewing user behavior easie
 
 <br><br>
 
-### Case study Library
+### Cases studies Library
 
 We now make it easy to access our last case studyies,  so you are sure to stay on top of the game and profit from the latest opportunities
 
@@ -76,6 +76,14 @@ Stay tuned
 
 ____
 
-Got a minute? Fill our poll below, so we can help you even more
+
+
+<br><br><br>
+
+Got a minute?
+
+ Fill our poll below, so we can help you even more>
+
+<br><br>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfLMo_1KjNKLT4ZfYUFqKi5ZdJWI-MDgwhYDbVDM8EVC2kERQ/viewform?embedded=true" width="640" height="1065" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

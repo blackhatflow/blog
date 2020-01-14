@@ -2,11 +2,9 @@
 
 # What's blackflow?
 
-*Blackflow is the quickest way to run a profitable campaign. It's an all in one tool to promote blackhat offers with cloaking, funnel and analytics. 
+*Blackflow is the quickest way to get a profitable campaign. It's an all in one tool to promote blackhat offers with cloaking, funnel and analytics - nothing to set up.*
 
-In short, we take care of the backend so you just focus on your traffic.*
-
----
+*In short, we take care of the backend, so you just focus on your traffic.*
 
 <br><br>
 

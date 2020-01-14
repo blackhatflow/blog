@@ -66,13 +66,15 @@ Blackflow is still in beta and we are building new features every week. Stay upd
 
 ____
 
+<br>
+
 ## Whats coming
 
 - case study on crypto for FB, Google
 
 - case study for skin and CBD on native
-
-Stay tuned
+  
+  <br>
 
 ____
 

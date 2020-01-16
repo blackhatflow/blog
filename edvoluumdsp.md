@@ -1,3 +1,5 @@
+Blackflow
+
 # Case study
 
 - **Source** VoluumDSP -> revcontent
@@ -17,6 +19,8 @@
 - Day 2 : Spend 100, Rev 224, ROI +124%
 
 ***What is blackflow?*** *Blackflow gives you proven blackhat campaign ready to run. Under the hood, we provide all that’s needed: cloaking, hosting, unique server ips and domains, safe page, lander, and offers. You just have to launch and focus on your traffic*
+
+&nbsp;
 
 ---
 
@@ -48,23 +52,35 @@
 
 `https://lifefify.com/?source=voluumdsp&campaign=8541abda&cid={campaign.id}&sid={dsp.widget.id}&aid={dsp.creative.id}&tid={dsp.adexchange}&uid={clickid}`
 
-On an abstract level, your link looks like this :
+- On an abstract level, your link looks like this :
 
-`domain.com/?campaign&tracking&customize`
+    `domain.com/?campaign&tracking&customize`
 
-` https://lifefify.com `
+ 
 
-The domain name is unique to your account and we don’t share it we other affiliates.
+ 
 
-`?source=voluumdsp&campaign=8541abda`
+- domain
+  
+  `https://lifefify.com`
+
+    The domain name is unique to your account and we don’t share it we other affiliates.
+
+
+
+- campaign
+
+    `?source=voluumdsp&campaign=8541abda`
 
 This is the mandatory part, it’s how we route your traffic to the right funnel
 
-`cid={campaign.id}&sid={dsp.widget.id}&aid={dsp.creative.id}&tid={dsp.adexchange}&clickid={clickid}`
+- tracking
 
-This is the **tracking** on your traffic source.
+    `cid={campaign.id}&sid={dsp.widget.id}&aid={dsp.creative.id}&tid={dsp.adexchange}&clickid={clickid}`
 
-We track 4 parameters so you can optimize it. You will find them on the blackflow stats dashboard.  
+    This is the **tracking** on your traffic source.
+
+    We track 4 parameters so you can optimize it. You will find them on the blackflow stats dashboard.  
 
 | **URL Parameter** | **Stand for**              | **Stats report** |
 | ----------------- | -------------------------- | ---------------- |

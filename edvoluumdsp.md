@@ -66,8 +66,6 @@ Blackflow
 
     The domain name is unique to your account and we don’t share it we other affiliates.
 
-
-
 - campaign
 
     `?source=voluumdsp&campaign=8541abda`
@@ -129,6 +127,14 @@ For the safe page, i will trust the default rotation that we already tested and 
 
 `https://lifefify.com/?source=voluumdsp&campaign=8541abda&cid={campaign.id}&sid={dsp.widget.id}&aid={dsp.creative.id}&tid={dsp.adexchange}&uid={clickid}&m=122,79`
 
+&nbsp;
+
+---
+
+---
+
+&nbsp;
+
 **PART 2 – 10min**
 
 # Set up voluumDSP
@@ -149,6 +155,8 @@ Strategy on native traffic source is pretty much the same: Start small and cap t
 
 ![](https://blog.blackflow.io/wp-content/uploads/2019/11/Screen-Shot-2019-11-24-at-1.38.57-PM.png)
 
+---
+
 ### Creatives
 
 Now the Creative part …
@@ -165,6 +173,8 @@ Same note for the headline, you can have a look at our collection, if you don’
 Let’s keep it simple and select 3 images + 3 headlines.  
 Once uploaded in voluumDSP you get 3*3=9 combinations.
 
+---
+
 ### Activate your campaign
 
 Make sure that on voluumDSP your campaign is on pause while they review it.  
@@ -173,6 +183,8 @@ After their compliance team approve it, go to blackflow.io/campaign and activate
 ![](https://blog.blackflow.io/wp-content/uploads/2019/11/Screen-Shot-2019-11-26-at-11.40.36-PM.png)
 
 This is very important, otherwise all your traffic will be filtered by the cloaker.
+
+---
 
 ### Setting up the pixel
 
@@ -202,51 +214,59 @@ Blackhat is amazing at tracking your users behavior, so let’s make sure we are
   
   ![Screen Shot 2020-01-16 at 10.07.42 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/16-10-08-26-Screen%20Shot%202020-01-16%20at%2010.07.42%20AM.png)
 
-
-
-
-
-
-
 ![](https://blog.blackflow.io/wp-content/uploads/2019/11/Screen-Shot-2019-11-26-at-3.24.15-PM.png)
 
 And for the **lead** and **sale** event, you want to mark it as a conversion and save the payout
 
 ![](https://blog.blackflow.io/wp-content/uploads/2019/11/Screen-Shot-2019-11-26-at-3.24.33-PM.png)
 
-
-
 ![](https://blog.blackflow.io/wp-content/uploads/2019/11/Screen-Shot-2019-11-26-at-3.27.08-PM.png)
 
 Just send us the pixel for your account, it’s all automated.
+
+---
+
+---
+
+&nbsp;
 
 **PART 3**
 
 # Optimize
 
-> *Results of day 1 – Pretty good*
+> *Results of day 1 – Pretty good ROI +33%*
 
-> ROI +33%
+*So on day 1, we end up spending 120\$ and making 160$  revenue, which is profitable of course, but not that great ( remember it’s blackhat ). That said we are buying native traffic so there is a lot of room for improvement. Being profitable on day 1 is actually a really good sign nowadays.*
 
-So on day 1, we end up spending 120$ and making 160$ revenue, which is profitable of course, but not that great ( remember it’s blackhat ). That said we are buying native traffic so there is a lot of room for improvement. Being profitable on day 1 is actually a really good sign nowadays.
-
-> Let’s optimize
+### Let’s optimize
 
 We are going to check and optimize three variables:
 
+- the placements aka widget
+
 - the creatives
-- the placements
+
 - the lander ( if you did split testing instead of the default rotation )
 
-> Head to blackflow.io/stats and Let’s look at the placements
+
+
+---
+
+### Placements
+
+On voluumDSP you pretty much have all you need already, thanks to the pixel firing for each events.
+
+![Screen Shot 2020-01-16 at 10.06.58 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/16-10-25-59-Screen%20Shot%202020-01-16%20at%2010.06.58%20AM.png)
+
+![](https://blog.blackflow.io/wp-content/uploads/2019/11/Screen-Shot-2019-11-26-at-6.35.33-PM.png)
+
+*Head to blackflow.io/stats and Let’s look at the placements*
 
 ![](https://storage.googleapis.com/blackflow-blog/2019/11/174cb493-screen-shot-2019-11-27-at-2.54.34-pm-1024x518.png)
 
-![](https://blog2.cbnrnews.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-26-at-6.35.33-PM-1024x365.png)
+Cut bad placement after only 10 clicks
 
-> Cut bad placement after only 10 clicks
-
-What’s really good here, **is that we can optimize placements after very few clicks.**
+What’s good here, **is that we can optimize placements after very few clicks.**
 
 Usually, affiliates optimize on CVR, but’s that’s expensive as you have to spend at least 1-2 times the offer payout before knowing if the widget is good. Here we are promoting nutra ED, the payout is usually 64$, so that’s a very expensive and inefficient strategy.
 
@@ -257,15 +277,25 @@ I have a small budget so I’m going to set up strict rules for the beginning:
 - If > 5 users, and time 60s < 1 Then block ( Mean that the placement don’t send any real user )
 - If >10 users And lead < 1 Then block ( remember we set up a lead as scrolling 50% + staying 60s + click – so we can separate real click with intent from fraudulent clicks )
 
-![](https://blog2.cbnrnews.com/wp-content/uploads/2019/11/quickfeedback.png)
+![](https://blog.blackflow.io/wp-content/uploads/2019/11/Screen-Shot-2019-11-26-at-8.52.57-PM.png)
 
-![](https://blog2.cbnrnews.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-26-at-8.52.57-PM.png)
+
+
+
 
 I actually set up the event – lead as a conversion. So that’s the rule from above
 
-> Next let’s have a look at the creative
 
-![](https://blog2.cbnrnews.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-26-at-3.13.25-PM-1024x436.png)
+
+____
+
+### Creatives
+
+*Next let’s have a look at the creative*
+
+**
+
+![](https://blog.blackflow.io/wp-content/uploads/2019/11/Screen-Shot-2019-11-26-at-3.13.25-PM-2048x871.png)
 
 ![](https://storage.googleapis.com/blackflow-blog/2019/11/d2654b5b-screen-shot-2019-11-28-at-8.18.56-pm-1024x164.png)
 
@@ -273,7 +303,11 @@ creative stats on blackflow, easy to compare with duration, scroll %, click time
 
 Creatives look fine here, I just notice one of the ad got a low CPC so that’s good sign for tomorrow
 
-> CHECKING DAY 2 RESULTS AND LANDERS
+---
+
+
+
+### Landers
 
 ![](https://storage.googleapis.com/blackflow-blog/2019/11/1f6c73af-screen-shot-2019-11-27-at-10.43.36-pm.png)
 
@@ -283,11 +317,11 @@ For Day 2 I created a white list to focus on the good placements we saw on day 1
 
 ![](https://storage.googleapis.com/blackflow-blog/2019/11/9daf1ea1-screen-shot-2019-11-27-at-12.41.09-am.png)
 
-> Spent 100$, made 220$, ROI +124%
+> Spent 100\$, made 220\$, ROI +124%
 
 ![](https://storage.googleapis.com/blackflow-blog/2019/11/925cbde8-screen-shot-2019-11-27-at-12.14.28-am.png)
 
-Revenue on DSP only show 4 conv and 120$ because we didn’t fire the upsell back. Real revenue is 224$
+Revenue on DSP only show 4 conv and 120\$ because we didn’t fire the upsell back. Real revenue is 224$
 
 ![](https://storage.googleapis.com/blackflow-blog/2019/11/c1604e98-screen-shot-2019-11-27-at-12.15.01-am.png)
 
@@ -301,12 +335,10 @@ Go the blackflow.io/stats in the lander reports
 
 It’s a bit early to optimize here, but we see our lander are both working well.
 
-On blackflow we already tested the landers for you, so that protects your bottom line. We are always split testing and improving things.
+On blackflow we already cleaned and tested the landers for you, so we protects your bottom line. 
 
-> This is hot and ready, why not get started?
 
-This is fresh data, working right now. Get started on your first campaign, your first 1k revenue are on us. After that, we apply the usual rate of 9-13%, which is largely offset by the fact that we also have better payout +10%, not to mention the time we save you and you don’t need to pay for any cloaker and tracker.
 
 [Click here to get started](https://app.blackflow.io/signup)
 
-anyway thank you for reading, until next case study.
+thank you for reading, until next case study.

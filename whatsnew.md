@@ -64,9 +64,7 @@ Blackflow is still in beta and we are building new features every week. Stay upd
 
 ![howto.gif](whatsnew/howto.gif)
 
-## <br><br>
-
-____
+## 
 
 <br>
 

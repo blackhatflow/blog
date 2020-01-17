@@ -8,7 +8,7 @@ blackflow
 
 #### Blackflow currently have 5 options for the safe page
 
-- **redirect**: redirect to any page like amazon, ebay etc.. 
+- <a href="#redirect">**redirect**</a>: redirect to any page like amazon, ebay etc.. 
 
 - **curl**: host any external page ( but it's not a mirror - if you click links on the page it will go to original site ) 
 
@@ -26,7 +26,7 @@ blackflow
 | **WP website**    | ✔           | ✔              | ✔ no domain authority                   |
 | **include**       | ✔           | ✔              | no ( just a lander)                     |
 
-======
+&nbsp;
 
 The choice of the methods depends of your **angle** and of the **traffic source.**
 
@@ -61,7 +61,11 @@ The choice of the methods depends of your **angle** and of the **traffic source.
 | 2    | reverse proxy | 8                  | 10       |
 | 3    | curl          | 8                  | 8        |
 
-======
+&nbsp;
+
+---
+
+
 
 &nbsp;
 
@@ -89,9 +93,9 @@ For example for crypto IT, we have loaded articles about* 'top works to do from 
 
 https://www.lifefify.com/rec0wE8mpDC13DRlv/
 
-======
+&nbsp;
 
-### Redirect
+<div id='redirect'>### Redirect
 
 *Redirect simply redirect to another website. Some source don't allow it likes google, facebook is fine with it lately, and native source can't really ban it as there is still many agency using a tracking link.*
 
@@ -137,27 +141,9 @@ And unlike other tracker or cloaker, the redirection is blazing fast ( 135 ms )
 
 
 
-
-
-
-
-
-
-
-
----
-
-____
-
-
-
-
-
 &nbsp;
 
 ### CURL
-
-======
 
 with curl method, you can host any external page.
 
@@ -175,7 +161,6 @@ https://www.consigli.it/massimo-boldi-e-christian-de-sica-i-film-imperdibili-del
 
 ![Screen Shot 2020-01-17 at 4.33.41 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/17-16-33-45-Screen%20Shot%202020-01-17%20at%204.33.41%20PM.png)
 
----
 
 &nbsp;
 
@@ -223,7 +208,7 @@ https://ifadlabs.com/products/absolutezero-plant/?campaign=094545a1&s=300
 https://ifadlabs.com/products/absolutezero-plant/?source=facebook&campaign=094545a1&cid={{campaign.name}}&sid={{adset.name}}&aid={{ad.name}}&s=300
 ```
 
----
+
 
 &nbsp;
 

@@ -12,7 +12,7 @@ blackflow
 
 - **[curl](#curl):**: host any external page ( but it's not a mirror - if you click links on the page it will go to original site ) 
 
-- **[reverse proxy](#reverse proxy)**:: fully mirror an external site, we only support a few domain ( etsy, usatoday, euronews etc.. )
+- **[reverse proxy](#reverse-proxy)**:: fully mirror an external site, we only support a few domain ( etsy, usatoday, euronews etc.. )
 
 - **[wordpress](#wordpress)**: arbitrage website with wordpress, top 10 article, next button and display ads
 
@@ -159,7 +159,7 @@ https://www.consigli.it/massimo-boldi-e-christian-de-sica-i-film-imperdibili-del
 
 &nbsp;
 
-### Reverse proxy
+### Reverse-proxy
 
 Reverse proxy is **same as curl but in better** , as we create a mirror of the website on our domain. ( We have to build it first so if you find a site you want to clone, just tell us. )
 

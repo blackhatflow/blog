@@ -12,9 +12,9 @@ blackflow
 
 - **[curl](#curl):**: host any external page ( but it's not a mirror - if you click links on the page it will go to original site ) 
 
-- **[reverseproxy](#reverseproxy)**:: fully mirror an external site, we only support a few domain ( etsy, usatoday, euronews etc.. )
+- **[reverse proxy](#reverse proxy)**:: fully mirror an external site, we only support a few domain ( etsy, usatoday, euronews etc.. )
 
-- **[wp](#wp)**: arbitrage website with wordpress, top 10 article, next button and display ads
+- **[wordpress](#wordpress)**: arbitrage website with wordpress, top 10 article, next button and display ads
 
 - **[include](#include):**: best scenario where we host a custom lander.
 
@@ -71,11 +71,11 @@ The choice of the methods depends of your **angle** and of the **traffic source.
 
 let's go over the methods and how to use it
 
-### Content website
+### wordpress
 
 Attached to your domain is a content website ( WP ) with random article. It look similar to an arbitrage website as we show a NEXT button and display ads on the sidebar.
 
-This is a good option for source that tolerate arbitrage ( taboola, revcontent etc ... not so much for facebook anymore)
+This is a good option for source that tolerate arbitrage ( taboola, revcontent etc ... not so much for facebook anymore). Another issue is that most of the farming company were using this method, so it's a bit burned.
 
 it allow you to choose safe page with an article close to your angle
 

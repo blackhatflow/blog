@@ -65,8 +65,6 @@ The choice of the methods depends of your **angle** and of the **traffic source.
 
 ---
 
-
-
 &nbsp;
 
 ## How to use it
@@ -95,7 +93,8 @@ https://www.lifefify.com/rec0wE8mpDC13DRlv/
 
 &nbsp;
 
-<div id='redirect'>### Redirect
+<div id="redirect"></div>
+### Redirect
 
 *Redirect simply redirect to another website. Some source don't allow it likes google, facebook is fine with it lately, and native source can't really ban it as there is still many agency using a tracking link.*
 
@@ -139,8 +138,6 @@ And unlike other tracker or cloaker, the redirection is blazing fast ( 135 ms )
 
 ![Screen Shot 2020-01-17 at 3.58.40 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/17-15-58-45-Screen%20Shot%202020-01-17%20at%203.58.40%20PM.png)
 
-
-
 &nbsp;
 
 ### CURL
@@ -160,7 +157,6 @@ https://www.consigli.it/massimo-boldi-e-christian-de-sica-i-film-imperdibili-del
 3) Find the ID of the lander you added ( 321 ) and use in safe page parameter **s=321**
 
 ![Screen Shot 2020-01-17 at 4.33.41 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/17-16-33-45-Screen%20Shot%202020-01-17%20at%204.33.41%20PM.png)
-
 
 &nbsp;
 
@@ -207,8 +203,6 @@ https://ifadlabs.com/products/absolutezero-plant/?campaign=094545a1&s=300
 ```
 https://ifadlabs.com/products/absolutezero-plant/?source=facebook&campaign=094545a1&cid={{campaign.name}}&sid={{adset.name}}&aid={{ad.name}}&s=300
 ```
-
-
 
 &nbsp;
 

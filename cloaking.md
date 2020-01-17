@@ -176,13 +176,15 @@ Then same method as the redirect, you choose any path and copy it's path
 ```
 https://livemomentous.com/products/absolutezero-plant?variant=8097396621410
 
-only keep the path : 
+only keep the path : ==> 
 
 products/absolutezero-plant
+```
 
+```
 add the path to your campaign link : 
 
-https://ifadlabs.com/?variant=8097396621410&campaign=094545a1
+https://ifadlabs.com/?source=facebook&campaign=094545a1 
 
 ===> 
 
@@ -211,4 +213,5 @@ Include is the method by default for money page.
 
 Just use the ID of the lander s={LanderID}
 
-### 
+
+

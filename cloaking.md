@@ -163,7 +163,7 @@ https://www.consigli.it/massimo-boldi-e-christian-de-sica-i-film-imperdibili-del
 
 Reverse proxy is **same as curl but in better** , as we create a mirror of the website on our domain. ( We have to build it first so if you find a site you want to clone, just tell us. )
 
-With is method, you don't need to load the lander in our system. You can choose any page of the site.
+With is method, you don't need to load the lander in our system. You can choose any page of the site. ( *NOTE: there is still one manual step for now you need to tell use which website you want for reverse proxy so we attach it to your domain* )
 
 **For example**
 
@@ -212,6 +212,3 @@ https://ifadlabs.com/products/absolutezero-plant/?source=facebook&campaign=09454
 Include is the method by default for money page.
 
 Just use the ID of the lander s={LanderID}
-
-
-

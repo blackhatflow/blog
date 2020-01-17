@@ -30,10 +30,6 @@
 
  https://coffiezone.com/?source=googleads&campaign=6645613c&cid={campaignid}&sid={keyword}&aid={creative}&tid={target}&s=276
 
-
-
-
-
 Headline 
 
 top 10 work to make only online from home => 

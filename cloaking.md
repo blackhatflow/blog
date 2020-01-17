@@ -1,10 +1,12 @@
+blackflow
+
 # Guide to cloaking
 
-*Blackflow take care of the cloaking and integration, but in some case you need to choose the cloaking method yourself, as it depends on your angle. Just ask us for help if you have doubt.*
+*Blackflow take care of the cloaking and integration, but in some case you need to choose the cloaking method yourself, as it depends on your angle. Just ask us if you have doubt.*
 
 ## How to choose a cloaking method
 
-#### Blackflow currently have 5 options **for the safe page**
+#### Blackflow currently have 5 options for the safe page
 
 - **redirect**: redirect to any page like amazon, ebay etc.. 
 
@@ -24,7 +26,7 @@
 | **WP website**    | ✔           | ✔              | ✔ no domain authority                   |
 | **include**       | ✔           | ✔              | no ( just a lander)                     |
 
----
+======
 
 The choice of the methods depends of your **angle** and of the **traffic source.**
 
@@ -59,19 +61,13 @@ The choice of the methods depends of your **angle** and of the **traffic source.
 | 2    | reverse proxy | 8                  | 10       |
 | 3    | curl          | 8                  | 8        |
 
----
+======
 
 &nbsp;
-
-&nbsp;
-
-
 
 ## How to use it
 
 let's go over the methods and how to use it
-
-&nbsp;
 
 ### Content website
 
@@ -93,7 +89,7 @@ For example for crypto IT, we have loaded articles about* 'top works to do from 
 
 https://www.lifefify.com/rec0wE8mpDC13DRlv/
 
----
+======
 
 ### Redirect
 
@@ -212,8 +208,6 @@ https://ifadlabs.com/products/absolutezero-plant/?source=facebook&campaign=09454
 ---
 
 &nbsp;
-
-
 
 ### Include
 

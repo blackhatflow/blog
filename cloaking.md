@@ -119,8 +119,8 @@ Rise-Bitcoin/dp/B00XVJ3OB4/
 
 - No just add the path in your campaign link ( after the **.com** and before the **?**)
 
-```
-https://dailable.com/Rise-Bitcoin/dp/B00XVJ3OB4/?source=facebook&campaign=094545a1&cid={{campaign.name}}&sid={{adset.name}}&aid={{ad.name}}
+```html
+https://dailable.com/<b>Rise-Bitcoin/dp/B00XVJ3OB4/<b/>?source=facebook&campaign=094545a1&cid={{campaign.name}}&sid={{adset.name}}&aid={{ad.name}}
 ```
 
 - Lastly, add in the safe page parameter, which domain we should redirect to. Here we need amazon.it, the ID is 304, so i will add **s=304**
@@ -135,11 +135,29 @@ And unlike other tracker or cloaker, the redirection is blazing fast ( 135 ms )
 
 ![Screen Shot 2020-01-17 at 3.58.40 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/17-15-58-45-Screen%20Shot%202020-01-17%20at%203.58.40%20PM.png)
 
+
+
+
+
+
+
+
+
+
+
 ---
+
+____
+
+
+
+
 
 &nbsp;
 
 ### CURL
+
+======
 
 with curl method, you can host any external page.
 

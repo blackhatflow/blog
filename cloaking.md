@@ -8,15 +8,15 @@ blackflow
 
 #### Blackflow currently have 5 options for the safe page
 
-- <a href="#redirect">**redirect**</a>: redirect to any page like amazon, ebay etc.. 
+- **[redirect](#redirect)**: redirect to any page like amazon, ebay etc.. 
 
-- **curl**: host any external page ( but it's not a mirror - if you click links on the page it will go to original site ) 
+- **[curl](#curl):**: host any external page ( but it's not a mirror - if you click links on the page it will go to original site ) 
 
-- **reverse proxy**: fully mirror an external site, we only support a few domain ( etsy, usatoday, euronews etc.. )
+- **[reverseproxy](#reverseproxy)**:: fully mirror an external site, we only support a few domain ( etsy, usatoday, euronews etc.. )
 
-- **WP website**: arbitrage website with wordpress, top 10 article, next button and display ads
+- **[wp](#wp)**: arbitrage website with wordpress, top 10 article, next button and display ads
 
-- **include**: best scenario where we host a custom lander
+- **[include](#include):**: best scenario where we host a custom lander.
 
 | method            | same domain | zero -redirect | full website                            |
 |:-----------------:|:-----------:|:--------------:|:---------------------------------------:|
@@ -93,7 +93,6 @@ https://www.lifefify.com/rec0wE8mpDC13DRlv/
 
 &nbsp;
 
-<div id="redirect"></div>
 ### Redirect
 
 *Redirect simply redirect to another website. Some source don't allow it likes google, facebook is fine with it lately, and native source can't really ban it as there is still many agency using a tracking link.*
@@ -123,7 +122,7 @@ Rise-Bitcoin/dp/B00XVJ3OB4/
 - No just add the path in your campaign link ( after the **.com** and before the **?**)
 
 ```html
-https://dailable.com/<b>Rise-Bitcoin/dp/B00XVJ3OB4/<b/>?source=facebook&campaign=094545a1&cid={{campaign.name}}&sid={{adset.name}}&aid={{ad.name}}
+https://dailable.com/Rise-Bitcoin/dp/B00XVJ3OB4/?source=facebook&campaign=094545a1&cid={{campaign.name}}&sid={{adset.name}}&aid={{ad.name}}
 ```
 
 - Lastly, add in the safe page parameter, which domain we should redirect to. Here we need amazon.it, the ID is 304, so i will add **s=304**

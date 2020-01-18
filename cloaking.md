@@ -1,4 +1,4 @@
-blackflow
+[blackflow.io](https://blackflow.io)
 
 # Guide to cloaking
 
@@ -10,7 +10,7 @@ blackflow
 
 - **[redirect](#redirect)**: redirect to any page like amazon, ebay etc.. 
 
-- **[curl](#curl):**: host any external page ( but it's not a mirror - if you click links on the page it will go to original site ) 
+- **[curl](#curl):**: host any external page ( but it's not a mirror - if you click links on the page it will go to original site) 
 
 - **[reverse proxy](#reverse-proxy)**:: fully mirror an external site, we only support a few domain ( etsy, usatoday, euronews etc.. )
 
@@ -189,7 +189,7 @@ products/absolutezero-plant
 
 insert that path in your campaign link :
 
-https://ifadlabs.com/products/***absolutezero-plant***?variant=8097396621410&campaign=094545a1
+https://ifadlabs.com/***products/absolutezero-plant***?variant=8097396621410&campaign=094545a1
 
 ```
 
@@ -200,7 +200,7 @@ https://ifadlabs.com/?source=facebook&campaign=094545a1
 https://ifadlabs.com/products/absolutezero-plant?variant=8097396621410&campaign=094545a1
 ```
 
-add the safe page parameter **s=300 ** ( 300 is the ID for reverse proxy )
+add the safe page parameter **s=300** ( 300 is the ID for reverse proxy )
 
 ```
 https://ifadlabs.com/products/absolutezero-plant/?campaign=094545a1&s=300

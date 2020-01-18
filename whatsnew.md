@@ -10,6 +10,24 @@ ____
 
 <br>
 
+## What's new - 21 January 2020
+
+## Smarter funnel
+
+Most affiliates promoting crypto are not matching the offer image on the lander. Instead they are using outdated image, even in the WRONG country currency!
+
+Other vertical like nutra or sweeptakes have since a long time optimized their lander to match the country or ISP.
+
+So blackflow funnel got smarter for crypto too: the step1, step2, step3 images on the lander now match dynamically the offer. 
+
+The benefit is that it's more congruent, so more certainty for the user, so more FTDs!
+
+**Example for UK**: We show UK flag, GBP currency, and english language. ( Again this is obvious but most affiliate are not doing it as it extra work to update it ) 
+
+![Screen Shot 2020-01-18 at 5.38.55 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/18-17-43-31-Screen%20Shot%202020-01-18%20at%205.38.55%20PM.png)
+
+![Screen Shot 2020-01-18 at 5.38.45 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/18-17-43-10-Screen%20Shot%202020-01-18%20at%205.38.45%20PM.png)
+
 ## What's new - 14 January 2020
 
 Summing things up: cloaking and tracking improvment, better UI and some nice tools to make blackflow easier.

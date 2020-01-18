@@ -2,7 +2,7 @@ blackflow
 
 # Guide to cloaking
 
-*Blackflow take care of the cloaking and integration, but in some case you need to choose the cloaking method yourself, as it depends on your angle. Just ask us if you have doubt.*
+*Blackflow take care of the cloaking and integration, but sometimes, you need to choose the cloaking method yourself, as it depends on your angle. Just ask us if you have doubt.*
 
 ## How to choose a cloaking method
 
@@ -16,7 +16,7 @@ blackflow
 
 - **[wordpress](#wordpress)**: arbitrage website with wordpress, top 10 article, next button and display ads
 
-- **[include](#include):**: best scenario where we host a custom lander.
+- **[includes](#includes):**: best scenario where we host a custom lander.
 
 | method            | same domain | zero -redirect | full website                            |
 |:-----------------:|:-----------:|:--------------:|:---------------------------------------:|
@@ -24,17 +24,17 @@ blackflow
 | **curl**          | ✔           | ✔              | yes but click links go to original site |
 | **reverse proxy** | ✔           | ✔              | ✔no domain authority                    |
 | **WP website**    | ✔           | ✔              | ✔ no domain authority                   |
-| **include**       | ✔           | ✔              | no ( just a lander)                     |
+| **includes**      | ✔           | ✔              | no ( just a lander)                     |
 
 &nbsp;
 
-The choice of the methods depends of your **angle** and of the **traffic source.**
+The choice of the methods depends on your **angle** and on the **traffic source.**
 
 #### **<u>here are our current observations</u>**
 
 **facebook** ( Recommendation : Redirect )
 
-*Facebook usually require a full website with terms and quality content, so **include** is usually not an option, and **wordpress website** are seeing lot of disapproval lately.*
+*Facebook usually requires a full website with terms and quality content, so **include** is usually not an option, and **wordpress websites** are seeing a lot of disapproval lately.*
 
 | Rank | Method        | Chance of approval | Spending |
 | ---- | ------------- | ------------------ | -------- |
@@ -45,13 +45,12 @@ The choice of the methods depends of your **angle** and of the **traffic source.
 
 **google** ( Recommendation : WP website )
 
-*Google don't allow any redirect*
-
 | Rank | Method        | Chance of approval | Spending |
 | ---- | ------------- | ------------------ | -------- |
 | 1    | WP website    | 9                  | 8        |
 | 2    | reverse proxy | 7                  | 7        |
 | 3    | curl          | ?                  | ?        |
+|      | ~~redirect~~  | 0                  |          |
 
 **native** ( Recommendation : curl  / reverse proxy )
 
@@ -60,6 +59,7 @@ The choice of the methods depends of your **angle** and of the **traffic source.
 | 1    | WP website    | 8                  | 10       |
 | 2    | reverse proxy | 8                  | 10       |
 | 3    | curl          | 8                  | 8        |
+| 4    | redirect      | 8                  | 7        |
 
 &nbsp;
 
@@ -73,11 +73,11 @@ let's go over the methods and how to use it
 
 ### wordpress
 
-Attached to your domain is a content website ( WP ) with random article. It look similar to an arbitrage website as we show a NEXT button and display ads on the sidebar.
+Attached to your domain is a content website ( WP ) with random article. It looks similar to an arbitrage website with clickbait article, 'next >' button and ads.
 
 This is a good option for source that tolerate arbitrage ( taboola, revcontent etc ... not so much for facebook anymore). Another issue is that most of the farming company were using this method, so it's a bit burned.
 
-it allow you to choose safe page with an article close to your angle
+it allow you to choose a safe page with an article congruent to your angle
 
 Let's try it.
 
@@ -87,23 +87,25 @@ Lander > Filter by integration
 
 ![Screen Shot 2020-01-17 at 3.23.30 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/17-15-23-34-Screen%20Shot%202020-01-17%20at%203.23.30%20PM.png)
 
-For example for crypto IT, we have loaded articles about* 'top works to do from home*' or '*richest people*' or *'investments tips*' . The point is that it's **congruent** to any angle you can think off for your ad. ( Congruent = it will make sense when the source check your funnel ). If you need article we don't have yet, just ask us.
+For example for crypto IT, we have loaded articles about* 'top works to do from home*' or '*richest people*' or *'investment tips*' . The point is that it's **congruent** to any angle you can think of for your ad. ( Congruent = it will make sense when the source check your funnel ). 
 
-https://www.lifefify.com/rec0wE8mpDC13DRlv/
+[https://www.lifefify.com/rec0wE8mpDC13DRlv/](https://www.lifefify.com/rec0wE8mpDC13DRlv/)
+
+Note : If you need an article we don't have yet, just ask us.
 
 &nbsp;
 
 ### Redirect
 
-*Redirect simply redirect to another website. Some source don't allow it likes google, facebook is fine with it lately, and native source can't really ban it as there is still many agency using a tracking link.*
+*the **redirect** method simply redirect the user to another website. Some source like Googleads don't allow it, facebook is fine with it (lately), and native source can't really ban it as there is still many agencies using a tracking link.*
 
 Here is a very simple ( and plain stupid ) example with amazon.
 
-Let's go on amazon.com ( or amazon.it, .de, .fr etc.. ) and pick any product that you think make sense for your ad. 
+Let's go on amazon.com ( or amazon.it, .de, .fr etc.. ) and pick any product that you think make senses for your ad. 
 
 ![](/Users/yoann/Documents/blackflow/frontend/casestudy/2020-01-17-15-42-49-image.png)
 
-The way to use is very simple. Just add the path of the safe page to your campaign link.
+The way to use is very simple: **add the path of the safe page to your campaign link.**
 
 To explain step by step:
 
@@ -113,19 +115,21 @@ To explain step by step:
 https://www.amazon.com/Rise-Bitcoin/dp/B00XVJ3OB4/ref=sr_1_1?keywords=bitcoin+rise&qid=1576004004&sr=8-1
 ```
 
-- remove the query part ( after "?" ) and only keep the path:
+- remove the query part ( after "?" ) and keep only the path:
 
 ```
 Rise-Bitcoin/dp/B00XVJ3OB4/
 ```
 
-- No just add the path in your campaign link ( after the **.com** and before the **?**)
+- insert the path in your campaign link ( after the **.com** and before the **?**)
 
 ```html
 https://dailable.com/Rise-Bitcoin/dp/B00XVJ3OB4/?source=facebook&campaign=094545a1&cid={{campaign.name}}&sid={{adset.name}}&aid={{ad.name}}
 ```
 
-- Lastly, add in the safe page parameter, which domain we should redirect to. Here we need amazon.it, the ID is 304, so i will add **s=304**
+- Last, append the safe page parameter (s=), so we know which domain to redirect to. 
+  
+  Here we want to redirect to amazon.it, the ID is 304, so we will add **s=304**
   
   ![Screen Shot 2020-01-17 at 3.51.41 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/17-15-51-45-Screen%20Shot%202020-01-17%20at%203.51.41%20PM.png)
 
@@ -161,17 +165,19 @@ https://www.consigli.it/massimo-boldi-e-christian-de-sica-i-film-imperdibili-del
 
 ### Reverse-proxy
 
-Reverse proxy is **same as curl but in better** , as we create a mirror of the website on our domain. ( We have to build it first so if you find a site you want to clone, just tell us. )
+Reverse proxy method is the **same as curl but in better** , as we create a mirror of the website on our domain. 
 
-With is method, you don't need to load the lander in our system. You can choose any page of the site. ( *NOTE: there is still one manual step for now you need to tell use which website you want for reverse proxy so we attach it to your domain* )
+With is method, you don't need to load the lander in our system first. You can choose any page of the site. 
+
+( *NOTE: fow now there is still one manual step, you need to tell us which website you want to use so we attach it to your domain* )
 
 **For example**
 
-Site we want to clone : [https://www.livemomentous.com/](https://www.livemomentous.com/) This website would work well as safe page for nutra health)
+we want to use this website : [https://www.livemomentous.com/](https://www.livemomentous.com/) It would work well as a safe page for nutra health ( diet, muscle, ed )
 
 On our domain : [https://www.ifadlabs.com/](https://www.ifadlabs.com/)
 
-Then same method as the redirect, you choose any path and copy it's path
+Then same method as the redirect, you choose any page and copy its path
 
 ```
 https://livemomentous.com/products/absolutezero-plant?variant=8097396621410
@@ -181,8 +187,11 @@ only keep the path : ==>
 products/absolutezero-plant
 ```
 
+insert that path in your campaign link :
+
+https://ifadlabs.com/products/***absolutezero-plant***?variant=8097396621410&campaign=094545a1
+
 ```
-add the path to your campaign link : 
 
 https://ifadlabs.com/?source=facebook&campaign=094545a1 
 
@@ -191,7 +200,7 @@ https://ifadlabs.com/?source=facebook&campaign=094545a1
 https://ifadlabs.com/products/absolutezero-plant?variant=8097396621410&campaign=094545a1
 ```
 
-add the s=300 which is the ID from the lander proxy
+add the safe page parameter **s=300 ** ( 300 is the ID for reverse proxy )
 
 ```
 https://ifadlabs.com/products/absolutezero-plant/?campaign=094545a1&s=300
@@ -207,8 +216,8 @@ https://ifadlabs.com/products/absolutezero-plant/?source=facebook&campaign=09454
 
 &nbsp;
 
-### Include
+### Includes
 
-Include is the method by default for money page.
+As the name say, the include method includes the page code. It's normal hosting and it's what most of the cloaker do. The requirement is you own the code of the page, so that's seriously limit your options.s
 
 Just use the ID of the lander s={LanderID}

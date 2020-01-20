@@ -14,19 +14,29 @@ ____
 
 ## Smarter funnel
 
-Most affiliates promoting crypto are not matching the offer image on the lander. Instead they are using outdated image, even in the WRONG country currency!
+Most affiliates promoting crypto are not putting the effort to match the offer screenshot on the lander. Instead they are using outdated image, even in the wrong country currency...
 
-Other vertical like nutra or sweeptakes have since a long time optimized their lander to match the country or ISP.
+Other vertical like nutra or sweeptakes have since long time optimized their lander to match the country or ISP.
 
-So blackflow funnel got smarter for crypto too: the step1, step2, step3 images on the lander now match dynamically the offer. 
+So blackflow funnel got smarter for crypto too! the step1, step2, step3 images on the lander now dynamically match the offer. 
 
-The benefit is that it's more congruent, so more certainty for the user, so more FTDs!
+The benefit is that it's more congruency => more certainty for the user => more FTDs!
 
-**Example for UK**: We show UK flag, GBP currency, and english language. ( Again this is obvious but most affiliate are not doing it as it extra work to update it ) 
+**Example for DE**: We show Germany flag, EUR currency, and Deutsche language. ( Again this is obvious but most affiliate are not doing it as it extra work to update it ) 
 
-![Screen Shot 2020-01-18 at 5.38.55 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/18-17-43-31-Screen%20Shot%202020-01-18%20at%205.38.55%20PM.png)
+step1
 
-![Screen Shot 2020-01-18 at 5.38.45 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/18-17-43-10-Screen%20Shot%202020-01-18%20at%205.38.45%20PM.png)
+![step1.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/18-18-50-38-step1.png)
+
+step2
+
+![step2.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/18-18-50-43-step2.png)
+
+step3
+
+![step3.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/18-18-50-47-step3.png)
+
+
 
 ## What's new - 14 January 2020
 

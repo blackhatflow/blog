@@ -36,8 +36,6 @@ step3
 
 ![step3.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/18-18-50-47-step3.png)
 
-
-
 ## What's new - 14 January 2020
 
 Summing things up: cloaking and tracking improvment, better UI and some nice tools to make blackflow easier.
@@ -48,7 +46,7 @@ Summing things up: cloaking and tracking improvment, better UI and some nice too
   
   It's an extra step for us, but we know it means a lot to you, if your account can run longer and spend more.
   
-  ![design.png](whatsnew/design.png)
+  ![Screen Shot 2020-01-21 at 10.17.04 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/21-10-17-40-Screen%20Shot%202020-01-21%20at%2010.17.04%20AM.png)
 
 - cutting edge cloaking method: We now have **reverse proxy**(  fully mirroring an exernal website to use it as safe page ), curl, and redirection ( and lately, it's actually works better than shopify on facebook! )
 

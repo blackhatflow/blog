@@ -3,39 +3,27 @@
   ```https://dailable.com/?source=voluumdsp&campaign=504b54dc&cid={campaign.id}&sid={dsp.widget.id}&aid={dsp.creative.id}&tid={dsp.adexchange}&uid={clickid}
   https://dailable.com/?source=voluumdsp&campaign=504b54dc&cid={campaign.id}&sid={dsp.widget.id}&aid={dsp.creative.id}&tid={dsp.adexchange}&uid={clickid}
   ```
-  
-  Questa ragazza guadagna 20.000$ al mese! E senza aver studia
 
-- 
+[https://heyssoswift.co/183031/the-real-reason-why-meghan-and-harry-rushed-megxit/](https://heyssoswift.co/183031/the-real-reason-why-meghan-and-harry-rushed-megxit/)
 
-https://dailable.com/?source=voluumdsp&campaign=504b54dc&cid={campaign.id}&sid={dsp.widget.id}&aid={dsp.creative.id}&tid={dsp.adexchange}&s=276&uid={clickid}
+[https://www.italianluxurycarhire.com/it/](https://www.italianluxurycarhire.com/it/)
 
-top 10 work to make only online from home => 
+![Screen Shot 2020-01-21 at 3.44.49 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/21-15-44-52-Screen%20Shot%202020-01-21%20at%203.44.49%20PM.png)
 
-top 10 lavorano per fare solo online da casa
+'This guy finally drive his dream car with this'
 
-diventare ricchi lavorando da casa
+'Looks rich, and make your dream come true'
 
-make money online easily with this
+'This is the easy way to get a supercar'
 
-fare soldi online facilmente con questo
+'Rent super car in italy'
 
-learn how 
+Questo ragazzo finalmente guida l'auto dei suoi sogni con questo
+Sembra ricco e trasforma i tuoi sogni in realtà
+Noleggio auto di lusso in italia
 
-impara come
+![Screen Shot 2020-01-21 at 3.42.43 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/21-15-42-45-Screen%20Shot%202020-01-21%20at%203.42.43%20PM.png)
 
-![Screen Shot 2020-01-16 at 8.53.04 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/16-20-53-52-Screen%20Shot%202020-01-16%20at%208.53.04%20PM.png)
+![Screen Shot 2020-01-21 at 3.42.48 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/21-15-42-51-Screen%20Shot%202020-01-21%20at%203.42.48%20PM.png)
 
-![Screen Shot 2020-01-16 at 8.54.35 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/16-20-55-12-Screen%20Shot%202020-01-16%20at%208.54.35%20PM.png)
-
-taboola image dim 1000x600
-
-sips --resampleWidth 1000 *.jpg
-
-magick convert *.png ad.jpg
-
-![Screen Shot 2020-01-16 at 9.01.33 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/16-21-11-31-Screen%20Shot%202020-01-16%20at%209.01.33%20PM.png)
-
-![Screen Shot 2020-01-16 at 9.01.23 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/16-21-11-19-Screen%20Shot%202020-01-16%20at%209.01.23%20PM.png)
-
-![Screen Shot 2020-01-16 at 9.01.30 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/16-21-11-25-Screen%20Shot%202020-01-16%20at%209.01.30%20PM.png)
+![Screen Shot 2020-01-21 at 3.46.10 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/21-15-46-14-Screen%20Shot%202020-01-21%20at%203.46.10%20PM.png)

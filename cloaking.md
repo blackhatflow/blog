@@ -4,6 +4,8 @@
 
 *Blackflow take care of the cloaking and integration, but sometimes, you need to choose the cloaking method yourself, as it depends on your angle. Just ask us if you have doubt.*
 
+  ![Screen Shot 2020-01-21 at 10.17.04 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/21-10-17-40-Screen%20Shot%202020-01-21%20at%2010.17.04%20AM.png)
+
 ## How to choose a cloaking method
 
 #### Blackflow currently have 5 options for the safe page

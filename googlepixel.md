@@ -10,8 +10,6 @@ We will set up two conversions :
   
   ![Screen Shot 2020-01-23 at 4.06.15 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/23-16-09-21-Screen%20Shot%202020-01-23%20at%204.06.15%20PM.png)
 
-
-
 ### 1) **Lead** :
 
  *will fire automatically from the lander, when we detect the click to offer is good quality ( time on page > 120s + scroll +50%. )*

@@ -4,7 +4,9 @@
 
 This case study show the steps to make a profitable campaign on google adwords, promoting crypto in italy. 
 
-We will see how to make your [campaign link](#campaign), then choose a [safe page](lander), get some [keyword](#keyword),  then [build the ad](#ad) and finally [setup the campaign on adwords](#setup).
+We will see how to make your [campaign link](#campaign), then choose a [safe page](#lander), get some [keyword](#keyword),  then [build the ad](#ad) and finally [setup the campaign on adwords](#setup).
+
+![Screen Shot 2020-01-23 at 8.05.08 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/23-20-05-17-Screen%20Shot%202020-01-23%20at%208.05.08%20PM.png)
 
 ## Preparation
 
@@ -14,17 +16,19 @@ We will see how to make your [campaign link](#campaign), then choose a [safe pag
 https://domain.com/?source=googleads&campaign=68449c63&cid={campaignid}&sid={keyword}&aid={creative}&tid={target}
 ```
 
-#### Lander ( optional)
+#### Lander
 
-1. if the safe page by default don't match your angle, then choose another safe page.
+this is optional,  if the safe page by default don't match your ad angle, then:
 
-2. note the id
+1. go to lander, choose another safe page and note the lander id 
 
-3. use s={id} in your campaign link ( s= stand for safe page)
+2. use s={id} in your campaign link ( s= stand for safe page)
 
 ![](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/16-20-53-52-Screen%20Shot%202020-01-16%20at%208.53.04%20PM.png)
 
 ### keyword
+
+you can try some exact match or broad, like : 
 
 fare soldi da casa
 fare soldi online
@@ -44,6 +48,10 @@ Translation ( you can use google sheet to translate easily with this formula =GO
 | make extra money online from home      | fare soldi extra online da casa                   |
 
 ## setup
+
+Google strategy is entirely up to you, but here are our settings anyway.
+
+You might want to watch your bidding, cpc cap as well
 
 ![Screen Shot 2020-01-23 at 9.39.43 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/23-09-40-16-Screen%20Shot%202020-01-23%20at%209.39.43%20AM.png)
 

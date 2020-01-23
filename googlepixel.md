@@ -4,32 +4,38 @@
 
 We will set up two conversions : 
 
-- ***lead*** : it will fire automatically from our lander
+- **[Lead](#Lead)** : it will fire automatically from our **Website**
 
-- ***conv*** : you will optionally import manually the conv later on ( we can't fire pixel for ftd or offer lead for now )
+- **[Purchase](#Purchase)** : you will **import manually** the conv later on ( we can't fire pixel for ftd or offer lead for now )
+  
+  ![Screen Shot 2020-01-23 at 4.06.15 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/23-16-09-21-Screen%20Shot%202020-01-23%20at%204.06.15%20PM.png)
 
-![Screen Shot 2020-01-14 at 9.54.48 AM.png](googlepixel/Screen Shot 2020-01-14 at 9.54.48 AM.png)
 
-### 1) **lead** :
+
+### 1) **Lead** :
 
  *will fire automatically from the lander, when we detect the click to offer is good quality ( time on page > 120s + scroll +50%. )*
 
-![Screen Shot 2020-01-14 at 10.01.04 AM.png](googlepixel/Screen Shot 2020-01-14 at 10.01.04 AM.png)
+![Screen Shot 2020-01-23 at 4.04.27 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/23-16-07-24-Screen%20Shot%202020-01-23%20at%204.04.27%20PM.png)
 
-1) keep note of the ***conversion ID*** ( associated to your googleads account ) and ***conversion Label*** ( specific to that conversion event )
+![Screen Shot 2020-01-23 at 4.00.08 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/23-16-08-12-Screen%20Shot%202020-01-23%20at%204.00.08%20PM.png)
 
-2) Set up pixel on blackflow: 
+1. Choose Website
 
-On your ad account on blackflow, enter this as pixel :
+2. keep note of the ***conversion ID*** ( associated to your googleads account ) and ***conversion Label*** ( specific to that conversion event )
 
-`{conversion ID}-{Conversion Label}`
+3. Set up pixel on blackflow: On your ad account on blackflow, enter this as pixel :
 
-in this example, it looks like this:
+    `{conversion ID}-{Conversion Label}`
 
-`685124755-iAofCJ_D2LcBEJPZ2MYC`
+     in this example, it looks like this:
 
-### 2) **conv**
+    `685124755-iAofCJ_D2LcBEJPZ2MYC`
+
+### 2) **Purchase**
 
 we will import them manually in case of FTD ( first time deposit ). We don't need any conversion ID here, but the name ***conv*** matter!
 
+![Screen Shot 2020-01-23 at 4.05.27 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/23-16-07-17-Screen%20Shot%202020-01-23%20at%204.05.27%20PM.png)
 
+![Screen Shot 2020-01-23 at 4.04.39 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/23-16-08-04-Screen%20Shot%202020-01-23%20at%204.04.39%20PM.png)

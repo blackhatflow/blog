@@ -14,7 +14,13 @@ We will see how to make your [campaign link](#campaign), then choose a [safe pag
 https://domain.com/?source=googleads&campaign=68449c63&cid={campaignid}&sid={keyword}&aid={creative}&tid={target}
 ```
 
-#### Lander
+#### Lander ( optional)
+
+1. if the safe page by default don't match your angle, then choose another safe page.
+
+2. note the id
+
+3. use s={id} in your campaign link ( s= stand for safe page)
 
 ![](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/16-20-53-52-Screen%20Shot%202020-01-16%20at%208.53.04%20PM.png)
 

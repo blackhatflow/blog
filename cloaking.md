@@ -4,7 +4,7 @@
 
 *Blackflow take care of the cloaking and integration, but sometimes, you need to choose the cloaking method yourself, as it depends on your angle. Just ask us if you have doubt.*
 
-  ![Screen Shot 2020-01-21 at 10.17.04 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/21-10-17-40-Screen%20Shot%202020-01-21%20at%2010.17.04%20AM.png)
+*What blackflow do for you in the backend:*![Screen Shot 2020-01-21 at 10.17.04 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/21-10-17-40-Screen%20Shot%202020-01-21%20at%2010.17.04%20AM.png)
 
 ## How to choose a cloaking method
 
@@ -20,13 +20,13 @@
 
 - **[includes](#includes):**: best scenario where we host a custom lander.
 
-| method            | same domain | zero -redirect | full website                            |
-|:-----------------:|:-----------:|:--------------:|:---------------------------------------:|
-| **redirect**      | no          | no             | ✔                                       |
-| **curl**          | ✔           | ✔              | yes but click links go to original site |
-| **reverse proxy** | ✔           | ✔              | ✔no domain authority                    |
-| **WP website**    | ✔           | ✔              | ✔ no domain authority                   |
-| **includes**      | ✔           | ✔              | no ( just a lander)                     |
+| method            | same domain | zero -redirect | full website                                |
+|:-----------------:|:-----------:|:--------------:|:-------------------------------------------:|
+| **redirect**      | no          | no             | ✔                                           |
+| **curl**          | ✔           | ✔              | yes, but click links go to original website |
+| **reverse proxy** | ✔           | ✔              | ✔ but no SEO authority                      |
+| **WP website**    | ✔           | ✔              | ✔ but no SEO authority                      |
+| **includes**      | ✔           | ✔              | no ( just a single page lander)             |
 
 &nbsp;
 
@@ -38,19 +38,22 @@ The choice of the methods depends on your **angle** and on the **traffic source.
 
 *Facebook usually requires a full website with terms and quality content, so **include** is usually not an option, and **wordpress websites** are seeing a lot of disapproval lately.*
 
-| Rank | Method        | Chance of approval | Spending |
-| ---- | ------------- | ------------------ | -------- |
-| 1    | **redirect**  | 9                  | 6        |
-| 2    | reverse proxy | 8                  | ?        |
-| 3    | curl          | 7                  | ?        |
-| 4    | WP            | 3                  | ?        |
+
+
+| Rank | Method         | Chance of approval | Spending |
+| ---- | -------------- | ------------------ | -------- |
+| 1    | **redirect**   | 9                  | 6        |
+| 2    | reverse proxy  | 8                  | ?        |
+| 3    | curl           | 7                  | ?        |
+| 4    | shopify/github | 8                  | 5        |
+| 5    | WP             | 3                  | 3        |
 
 **google** ( Recommendation : WP website )
 
 | Rank | Method        | Chance of approval | Spending |
 | ---- | ------------- | ------------------ | -------- |
-| 1    | WP website    | 9                  | 8        |
-| 2    | reverse proxy | 7                  | 7        |
+| 1    | WP website    | 9                  | 9        |
+| 2    | reverse proxy | ?                  | ?        |
 | 3    | curl          | ?                  | ?        |
 |      | ~~redirect~~  | 0                  |          |
 
@@ -59,9 +62,9 @@ The choice of the methods depends on your **angle** and on the **traffic source.
 | Rank | Method        | Chance of approval | Spending |
 | ---- | ------------- | ------------------ | -------- |
 | 1    | WP website    | 8                  | 10       |
-| 2    | reverse proxy | 8                  | 10       |
-| 3    | curl          | 8                  | 8        |
-| 4    | redirect      | 8                  | 7        |
+| 2    | redirect      | 9                  | 9        |
+| 3    | reverse proxy | ?                  | ?        |
+| 4    | curl          | ?                  | ?        |
 
 &nbsp;
 

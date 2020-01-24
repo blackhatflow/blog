@@ -40,12 +40,12 @@ come guadagnare soldi da casa
 
 Translation ( you can use google sheet to translate easily with this formula =GOOGLETRANSLATE({texttotranslate},"en","it")
 
-| EN                                     | IT                                                |
-| -------------------------------------- | ------------------------------------------------- |
-| make extra money online                | fare soldi extra online                           |
-| make money online from home.           | fare soldi online da casa.                        |
-| best online job for extra salary. easy | miglior lavoro online per stipendio extra. facile |
-| make extra money online from home      | fare soldi extra online da casa                   |
+| EN                               | IT                                                |
+| -------------------------------- | ------------------------------------------------- |
+| make extra money online          | fare soldi extra online                           |
+| make money online from home.     | fare soldi online da casa.                        |
+| best online job for salary. easy | miglior lavoro online per stipendio extra. facile |
+| earn money online from home      | fare soldi extra online da casa                   |
 
 ## setup
 

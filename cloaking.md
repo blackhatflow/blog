@@ -38,8 +38,6 @@ The choice of the methods depends on your **angle** and on the **traffic source.
 
 *Facebook usually requires a full website with terms and quality content, so **include** is usually not an option, and **wordpress websites** are seeing a lot of disapproval lately.*
 
-
-
 | Rank | Method         | Chance of approval | Spending |
 | ---- | -------------- | ------------------ | -------- |
 | 1    | **redirect**   | 9                  | 6        |

@@ -1,6 +1,6 @@
-# How to
+How to
 
-## Facebook with redirect
+# Facebook with redirect
 
 the **redirect** method simply redirect the user to another website.
 
@@ -20,9 +20,9 @@ After creating your campaign link:
 
 5) add the path of your safe page into your campaign link: 
    
-   1) the path is /show/ook-disney-klassieker-bambi-krijgt-een-liveactionfilm~a485d7f1/
+   - the path is /show/ook-disney-klassieker-bambi-krijgt-een-liveactionfilm~a485d7f1/
    
-   2) your final link: https://caveatistat.com/**show/ook-disney-klassieker-bambi-krijgt-een-liveactionfilm~a485d7f1/**?source=facebook&campaign=4344106b&cid={{campaign.name}}&sid={{adset.name}}&aid={{ad.name}}&s=346
+   - your final link: https://caveatistat.com/**show/ook-disney-klassieker-bambi-krijgt-een-liveactionfilm~a485d7f1/**?source=facebook&campaign=4344106b&cid={{campaign.name}}&sid={{adset.name}}&aid={{ad.name}}&s=346
    
    
 

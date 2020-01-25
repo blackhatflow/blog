@@ -32,4 +32,4 @@ After creating your campaign link:
 https://dailable.com/Rise-Bitcoin/dp/B00XVJ3OB4/?source=facebook&campaign=094545a1&cid={{campaign.name}}&sid={{adset.name}}&aid={{ad.name}}&s=304
 ```
 
-And unlike other tracker or cloaker, the redirection is blazing fast ( 135 ms )
+And unlike other tracker or cloaker, the redirection is blazing fast ( 135 ms

@@ -16,13 +16,13 @@ After creating your campaign link:
    
    ![2020-01-25 18.09.31.gif](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/25-18-09-47-2020-01-25%2018.09.31.gif)
 
-4) add &s=346 in your campaign link : https://caveatistat.com/?source=facebook&campaign=4344106b&cid={{campaign.name}}&sid={{adset.name}}&aid={{ad.name}}&s=346 ( you might need to wait 3min for the system to update )
+4) add &s=346 in your campaign link : https://caveatistat.com/?source=facebook&campaign=4344106b&cid={{campaign.name}}&sid={{adset.name}}&aid={{ad.name}}**&s=346** ( you might need to wait 3min for the system to update )
 
 5) add the path of your safe page into your campaign link: 
    
    1) the path is /show/ook-disney-klassieker-bambi-krijgt-een-liveactionfilm~a485d7f1/
    
-   2) your final link: https://caveatistat.com/show/ook-disney-klassieker-bambi-krijgt-een-liveactionfilm~a485d7f1/?source=facebook&campaign=4344106b&cid={{campaign.name}}&sid={{adset.name}}&aid={{ad.name}}&s=346
+   2) your final link: https://caveatistat.com/**show/ook-disney-klassieker-bambi-krijgt-een-liveactionfilm~a485d7f1/**?source=facebook&campaign=4344106b&cid={{campaign.name}}&sid={{adset.name}}&aid={{ad.name}}&s=346
    
    
 

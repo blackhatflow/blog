@@ -23,13 +23,3 @@ After creating your campaign link:
    - the path is /show/ook-disney-klassieker-bambi-krijgt-een-liveactionfilm~a485d7f1/
    
    - your final link: https://caveatistat.com/**show/ook-disney-klassieker-bambi-krijgt-een-liveactionfilm~a485d7f1/**?source=facebook&campaign=4344106b&cid={{campaign.name}}&sid={{adset.name}}&aid={{ad.name}}&s=346
-   
-   
-
-
-
-```
-https://dailable.com/Rise-Bitcoin/dp/B00XVJ3OB4/?source=facebook&campaign=094545a1&cid={{campaign.name}}&sid={{adset.name}}&aid={{ad.name}}&s=304
-```
-
-And unlike other tracker or cloaker, the redirection is blazing fast ( 135 ms

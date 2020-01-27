@@ -15,15 +15,11 @@
 
 ---
 
-
-
 ## Customize lander rotation
 
 Your link would look like : domain.com?source={source}&campaign={campaignID}&m=10&s=18&ang=22&img=02
 
 ![Screen Shot 2020-01-27 at 3.28.43 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/27-21-35-52-Screen%20Shot%202020-01-27%20at%203.28.43%20PM.png)
-
-
 
 ---
 

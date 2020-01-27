@@ -4,7 +4,7 @@
 
 This case study show the steps to make a profitable campaign on google adwords, promoting crypto in italy. 
 
-We will see how to make your [campaign link](#campaign), then choose a [safe page](#lander), get some [keyword](#keyword),  then [build the ad](#ad) and finally [setup the campaign on adwords](#setup).
+We will see how to make your [campaign link](#campaign), then choose a [safe page](#lander), get some [keyword](#keyword),  then [build the ad](#ad) and finally [setup the campaign on adwords](#setup), don't forget to activate auto-tagging [gclid](#gclid) and the [pixel](#pixel). Then [optimize](#optimize) and see our [tips](#tips)
 
 ![Screen Shot 2020-01-23 at 8.05.08 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/23-20-05-17-Screen%20Shot%202020-01-23%20at%208.05.08%20PM.png)
 
@@ -18,11 +18,13 @@ https://domain.com/?source=googleads&campaign=68449c63&cid={campaignid}&sid={key
 
 #### Lander
 
-this is optional,  if the safe page by default don't match your ad angle, then:
+this is optional,  if the safe page by default don't match your ad angle, then: 
 
 1. go to lander, choose another safe page and note the lander id 
 
 2. use s={id} in your campaign link ( s= stand for safe page)
+
+If this is still confusing, please read [here](customize_lander):
 
 ![](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/16-20-53-52-Screen%20Shot%202020-01-16%20at%208.53.04%20PM.png)
 
@@ -66,3 +68,35 @@ You might want to watch your bidding, cpc cap as well
 ![Screen Shot 2020-01-23 at 9.46.08 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/23-09-46-18-Screen%20Shot%202020-01-23%20at%209.46.08%20AM.png)
 
 ![Screen Shot 2020-01-23 at 9.47.10 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/23-09-47-21-Screen%20Shot%202020-01-23%20at%209.47.10%20AM.png)
+
+
+
+#### gclid
+
+Very important: you need to activate google auto tagging, the gclid, because 1) if not  your traffic will be filtered and 2) you can use it for pixel
+
+![Screen Shot 2020-01-27 at 9.26.26 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/27-21-26-29-Screen%20Shot%202020-01-27%20at%209.26.26%20PM.png)
+
+
+
+#### gclid
+
+help to set up [here](/google_pixel)
+
+
+
+----
+
+
+
+## optimize
+
+
+
+## tips
+
+cap your cpc, otherwise can go really high. ideally cpc is below 0.6$
+
+schedule your campaign between 8am-8pm local time on weekdays, as it convert less as night ( call center are close and won't call your leads ), and convert less on weekend.
+
+

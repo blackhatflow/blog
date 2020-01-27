@@ -1,3 +1,7 @@
+customize funnel
+
+# Customize
+
 #### Customize rotation
 
 - m=xx ( m for money lander 💰💰💰 )
@@ -15,17 +19,17 @@
 
 ---
 
-## Customize lander rotation
+<br><Br><Br>
 
-Your link would look like : domain.com?source={source}&campaign={campaignID}&m=10&s=18&ang=22&img=02
+### Customize lander rotation
 
 ![Screen Shot 2020-01-27 at 3.28.43 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/27-21-35-52-Screen%20Shot%202020-01-27%20at%203.28.43%20PM.png)
 
 ---
 
-<br>
+<br><br>
 
-## Customize the Lander headline & hero image
+### 2) Customize the Lander headline & hero image
 
  you might want to customize the lander to increase congruency between your ad and the lander.
 
@@ -45,8 +49,8 @@ Your link would look like : domain.com?source={source}&campaign={campaignID}&m=1
 
 - 3 ) in your campaign link, add the following parameters at the end, replacing xx with the chosen ID
 
-Your link would look like : 
-https://www.domain.com/)source=xxx&campaign=xxx**&img=17&ang=47
+Your link look like : 
+https://www.domain.com/)source=xx&campaign=xx**&img=17&ang=47**
 
 - **img=**xx ( main image of the lander ) 
 

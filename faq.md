@@ -6,8 +6,6 @@ faq
 The way I'm defining safe page with &s={id} parameter, do I have to define money page as well similarly? If I want it go to a certain money page and certain offer
 ```
 
-
-
 Campaign come with a default funnel. Optionnaly you might want to customize it, using parameter in your campaign link.
 
 - change the safe page with s={pageid} This is highly recommended to change it as you want to match the safe page with your angle, to improve your quality score and get approved by reviewers.

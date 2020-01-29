@@ -10,6 +10,31 @@ ____
 
 <br>
 
+## What's new - 29 January 2020
+
+## Optimize on lead
+
+![Screen Shot 2020-01-23 at 8.05.08 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/29-10-30-13-Screen%20Shot%202020-01-23%20at%208.05.08%20PM.png)
+
+<u>What's new with blackflow is our new metric "lead".</u>
+
+<u></u>Because user clicks on your lander can be accidental, it ends up not meaning much in term of data. So at blackflow, what we call lead is a click with good intent, defined by: click time  >2min + scroll page > 50%
+
+The benefit here is that instead of optimizing on FTD ( 700$ ) or offer lead/conversion that very high value, **you can accurately optimize on Lead value**, which is much faster data to get.
+
+For example, you spend 200\$ on google, and still not FTDs.. you worry about if something is wrong.. Now that you have **lead value**, you see that you actually made 10 leads on mobile and 4 on desktop, which are worth 10x15$ + 4x50$ = 350$ . Congrats you are on the right track!
+
+As for now we provide average lead value based on Geo, Device, and click time.
+
+
+
+
+![Screen Shot 2020-01-29 at 10.30.46 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/29-10-30-58-Screen%20Shot%202020-01-29%20at%2010.30.46%20AM.png)
+
+As we get more data we will provide deeper breakdown.
+
+![Screen Shot 2020-01-29 at 10.28.34 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/29-10-29-10-Screen%20Shot%202020-01-29%20at%2010.28.34%20AM.png)
+
 ## What's new - 21 January 2020
 
 ## Smarter funnel

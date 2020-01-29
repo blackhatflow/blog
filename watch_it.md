@@ -1,7 +1,5 @@
 # 15 Tra I Migliori Orologi di Lusso del 2019
 
-
-
 ---
 
 ![image](https://www.orologidiclasse.com/wp-content/uploads/2019/06/orologi-lusso-2019-750x563.jpg "image")

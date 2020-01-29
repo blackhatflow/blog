@@ -45,7 +45,7 @@ Summing things up: cloaking and tracking improvment, better UI and some nice too
 - we now have 3 protection layers. Blackflow chained with both **Leadcloak and Traffic armor**. The reason is, their IPs database and what is checked is slightly different, and combining them assure that we just get the best cloaking ever.
   
   It's an extra step for us, but we know it means a lot to you. Your account will run longer and better.
-
+  
   ![Screen Shot 2020-01-21 at 10.17.04 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/21-10-17-40-Screen%20Shot%202020-01-21%20at%2010.17.04%20AM.png)
 
 - cutting edge cloaking method: We now have **reverse proxy** (  fully mirroring an external website to use it as safe page ), curl and redirection ( and lately, it actually works great on facebook! )

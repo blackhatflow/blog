@@ -69,34 +69,22 @@ You might want to watch your bidding, cpc cap as well
 
 ![Screen Shot 2020-01-23 at 9.47.10 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/23-09-47-21-Screen%20Shot%202020-01-23%20at%209.47.10%20AM.png)
 
-
-
 #### gclid
 
 Very important: you need to activate google auto tagging, the gclid, because 1) if not  your traffic will be filtered and 2) you can use it for pixel
 
 ![Screen Shot 2020-01-27 at 9.26.26 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/27-21-26-29-Screen%20Shot%202020-01-27%20at%209.26.26%20PM.png)
 
-
-
 #### gclid
 
 help to set up [here](/google_pixel)
 
-
-
 ----
 
-
-
 ## optimize
-
-
 
 ## tips
 
 cap your cpc, otherwise can go really high. ideally cpc is below 0.6$
 
 schedule your campaign between 8am-8pm local time on weekdays, as it convert less as night ( call center are close and won't call your leads ), and convert less on weekend.
-
-

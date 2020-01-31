@@ -1,14 +1,12 @@
 ... coming
 
-### keywords
 
-![Screen Shot 2020-01-14 at 10.15.13 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/14-22-22-56-Screen%20Shot%202020-01-14%20at%2010.15.13%20PM.png)
 
 ### Landers
 
-![Screen Shot 2020-01-14 at 10.18.50 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/14-22-22-59-Screen%20Shot%202020-01-14%20at%2010.18.50%20PM.png)
 
-**TIPS**
+
+**TIPS** from x
 
 - what would be your strategy about it
   
@@ -22,9 +20,11 @@
   
   > Both are good but search is more expensive. Quality on search is better for me. On search you have to get a high QS which would mean your safe page needs to add value and be relevant. Search partners have a lot of potential so make sure they're enabled.
   
-  ![Screen Shot 2020-01-20 at 5.30.00 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/21-09-58-55-Screen%20Shot%202020-01-20%20at%205.30.00%20PM.png)
   
-  ![Screen Shot 2020-01-20 at 8.26.06 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/21-09-59-42-Screen%20Shot%202020-01-20%20at%208.26.06%20PM.png)
+  
+  
+
+## KEYWORDS
 
 "make money from home"
 [make money online from home]
@@ -35,3 +35,42 @@
 "make extra money online from home"
 
 Want to make money from home? Best job to do online
+
+
+
+
+
+## Optimizing cost and conversion
+
+### Bid
+
+usually you want to cap your max cpc, as google can get very expensive.
+
+What we currently recommend for UK is setting max cpc at 0.5\$ and adjust the bid for desktop up to 1\$ as destkop convert 2-3x better than mobile.
+
+### Cost per conversion
+
+After you set up pixel, you should see conversion appear on your adword account.
+We fire these conv everytime we detect a click to offer with strong intent ( time >2min )
+
+We call these lead, and they usually convert into Offer Lead ( signup  )
+
+To recap : Lander lead ( good click ) -> Offer conv ( Signup) -> FTD ( deposit money )
+
+You need to compare the cost per conv, with the stats we provide
+
+![Screen Shot 2020-01-31 at 10.07.21 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/31-10-10-39-Screen%20Shot%202020-01-31%20at%2010.07.21%20AM.png)
+
+You need to compare the cost per conv, with the general stats we provide
+
+![](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/31-10-13-36-photo_2020-01-31%2010.09.25.jpeg)
+
+So it's seems above that my current cost per lead is too high 31$ > 26\$ but for mobile it's good, 4.5\$ < 12\$ ( 300% ROI )
+
+What to do with these data? 
+
+There are just early feedback, it's very early to conclude anything. Just use it as an indicator as if you are on the right track ( because sometime the way to the 700\$ FTD is long ). So don't take any harsh decision based on it.
+
+
+
+

@@ -24,7 +24,9 @@
   
   
 
-## KEYWORDS
+## Keywords
+
+Target both exact and broad keyword. So you can get more traffic and optimize based on what people search for
 
 "make money from home"
 [make money online from home]
@@ -36,19 +38,29 @@
 
 Want to make money from home? Best job to do online
 
+#### Negative keyword
 
+Early one, you can blacklist some keyword that drive the wrong intent or demography
 
+blog, car, instagram, gta, 15 years old etc.. ( list is endless )
 
+![Screen Shot 2020-01-31 at 10.32.34 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/31-10-32-50-Screen%20Shot%202020-01-31%20at%2010.32.34%20AM.png)
+
+#### Demo
+
+Early on, you should remove the 18-25 age group
+
+![](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/31-10-25-05-Screen%20Shot%202020-01-31%20at%209.08.09%20AM.png)
 
 ## Optimizing cost and conversion
 
-### Bid
+#### Bid
 
 usually you want to cap your max cpc, as google can get very expensive.
 
 What we currently recommend for UK is setting max cpc at 0.5\$ and adjust the bid for desktop up to 1\$ as destkop convert 2-3x better than mobile.
 
-### Cost per conversion
+#### Cost per conversion
 
 After you set up pixel, you should see conversion appear on your adword account.
 We fire these conv everytime we detect a click to offer with strong intent ( time >2min )
@@ -70,6 +82,8 @@ So it's seems above that my current cost per lead is too high 31$ > 26\$ but for
 What to do with these data? 
 
 There are just early feedback, it's very early to conclude anything. Just use it as an indicator as if you are on the right track ( because sometime the way to the 700\$ FTD is long ). So don't take any harsh decision based on it.
+
+#### 
 
 
 

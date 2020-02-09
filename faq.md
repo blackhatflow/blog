@@ -2,8 +2,6 @@ faq
 
 # Frequent questions
 
-
-
 #### How is blackflow different from other all-in-one tools like zeustrack or kowboykit.
 
 Blackflow is similar in the way that we bring the piece of the puzzle together ( tracking, cloaking, server, safe page etc..)
@@ -15,10 +13,6 @@ But the big difference is that we provide **specific knowledge**. All the other 
 Well if you have a big team, already running things your own way successfully, then we are probably not the best choice.
 
 But for every other case, wether you are running already but you are struggling to scale or just starting to run traffic, and you want a 100% proven method to run a campaign, then Blackflow is definitely the right choice. We give you a campaign link, that you will use on your traffic source and it will works right away. What's left is to optimize it.
-
-
-
-
 
 ### The way I'm defining safe page with &s={id} parameter, do I have to define money page as well similarly? If I want it go to a certain money page and certain offer
 
@@ -48,10 +42,6 @@ We fire event on money page. We support pixel for voluumDSP, Facebook, Google, M
 
 No, we use api and it's extremely fast. Blackflow filter is on same server and check take 2-5ms, leadcloak take 100-150ms with API and TA a bit slower 300-400ms. In total less than 500ms, that is 2-3x faster than any other cloaker/tracker
 
-
-
-
-
 ##### How can i check if the campaign is working
 
 You can debug everything by adding parameter in your campaign URL.
@@ -67,11 +57,7 @@ You can debug everything by adding parameter in your campaign URL.
 
 - you can bypass cloaker ab=bypass
 
-
-
-
-
-s
+ss
 
 Should i pause my campaign on blackflow when my traffic is not live ?
 

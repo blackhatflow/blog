@@ -1,10 +1,6 @@
 ... coming
 
-
-
 ### Landers
-
-
 
 **TIPS** from x
 
@@ -19,10 +15,6 @@
 - do you see adwords or display working better for it?
   
   > Both are good but search is more expensive. Quality on search is better for me. On search you have to get a high QS which would mean your safe page needs to add value and be relevant. Search partners have a lot of potential so make sure they're enabled.
-  
-  
-  
-  
 
 ## Keywords
 
@@ -84,7 +76,3 @@ What to do with these data?
 There are just early feedback, it's very early to conclude anything. Just use it as an indicator as if you are on the right track ( because sometime the way to the 700\$ FTD is long ). So don't take any harsh decision based on it.
 
 #### 
-
-
-
-

@@ -2,8 +2,6 @@
 
 ### Landers
 
-
-
 # # Google search
 
 ### Sitelink extension

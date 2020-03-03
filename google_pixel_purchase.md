@@ -28,9 +28,11 @@ We will set up :
 
     `685124755-iAofCJ_D2LcBEJPZ2MYC`
 
-Then you either send to us to put in globally **or** in your campaign link use parameter pid=685124755-iAofCJ_D2LcBEJPZ2MYC
+Then you either:
 
+- send to us to put in globally on your account 
 
+- or, in your campaign link use parameter &pid={pixelid} like this &pid=685124755-iAofCJ_D2LcBEJPZ2MYC
 
 #### gclid
 

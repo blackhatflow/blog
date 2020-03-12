@@ -77,7 +77,7 @@ We will set up :
 
 `{conversion ID}-{Conversion Label}`
 
-     in this example, it looks like this:
+     in this example, it looks like this:
 
 `685124755-iAofCJ_D2LcBEJPZ2MYC`
 
@@ -168,6 +168,18 @@ I will warm up the campaign with a low budget for the first few days. ( Duration
 ![Screen Shot 20200123 at 94608 AMpng](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/23-09-46-18-Screen%20Shot%202020-01-23%20at%209.46.08%20AM.png)
 
 ![Screen Shot 20200123 at 94710 AMpng](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/23-09-47-21-Screen%20Shot%202020-01-23%20at%209.47.10%20AM.png)
+Other settings that i'm setting up for this campaign ( it's optional and depends of your angle )
+
+Exclude mobile traffic by setting the bid to -100%
+
+![Screen Shot 2020-03-10 at 3.12.10 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/10-15-16-13-Screen%20Shot%202020-03-10%20at%203.12.10%20PM.png)
+
+Exclude age 18-34
+
+![Screen Shot 2020-03-10 at 3.13.15 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/10-15-15-46-Screen%20Shot%202020-03-10%20at%203.13.15%20PM.png)
+
+You can also only target a gender ( i won't do in this campaign )
+
 
 ---
 
@@ -184,3 +196,4 @@ Most converting device is desktop so you need to factor that as well. For mobile
 Set up the target CPA recommended by google or set it up manually higher to get more traffic. You might need to adjust based on results and spend.
 
 ![Screen Shot 20200220 at 25628 PMpng](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/02/20-14-58-12-Screen%20Shot%202020-02-20%20at%202.56.28%20PM.png)
+

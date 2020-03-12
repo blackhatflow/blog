@@ -25,7 +25,7 @@ This is one of the first post on FB, so i will details the step a bit more and k
 
 So facebook is beast on his own. Things changed a lot, you can't expect to launch dirty ads, get it live and even make any money on it.
 
-My background is facebook arbitrage ( 2 years, 1 million in spend  ) so i've been playing with low cpc and pixel a lot, so in my view this is the key. Every targeting settings you add in term of interest/audience raise your CPC. So the stragegy i recommend is settings up a broad targeting and let the pixel do the work. 
+My background is facebook arbitrage, so i've been playing with high volume, low cpc and pixel a lot, so in my view this is the key. Every targeting settings you add in term of interest/audience raise your CPC. So the stragegy i recommend is settings up a broad targeting and let the pixel do the work. 
 
 By broad targeting, i mean to not select any interest, just keep it to the country/device and maybe gender/age that you want. What i do is DE/AU/CH + desktop + newsfeed/ sidebar + male 35+ . Again feel free to try anything, i just recommend to keep it broad. yes result will be bad at the beginning.
 

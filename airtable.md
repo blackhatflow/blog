@@ -1,18 +1,16 @@
-### How to add safe page
+Manual
 
 
 
 
 
+# Campaign
 
-
-### How to add offers
-
-
+Deploy a campaign
 
 
 
-### Campaign scheduler?
+## Campaign scheduler
 
 Campaign scheduler auto start and auto pause campaign the time and day you choose.
 
@@ -43,4 +41,18 @@ What else to know:
 
 
 
+# Lander
 
+### How to add safe page
+
+coming soon
+
+### How to add money page
+
+coming soon
+
+# Offers
+
+### How to add offers
+
+coming soon

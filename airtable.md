@@ -7,6 +7,9 @@ Manual
 campaign
 
 - [scheduler](#scheduler)
+- [integration](#integration)
+
+[domain](#domain)
 
 [lander](#lander)
 
@@ -48,21 +51,38 @@ Let's set up your first campaign
    
    ![Screen Shot 2020-03-24 at 11.03.17 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-11-03-55-Screen%20Shot%202020-03-24%20at%2011.03.17%20AM.png)
    
-   You need to assign a source and a user . Optionnaly you can set up the status which is just to help you organize things ( which account are live, in review etc.. )
+   You need to assign a source and a user . Optionnaly you can set up the status which is just to help you organize things ( which account are live, in review etc.. ) and the account pixel.
 
-2. 
+2. Then you can create your campaign
+   
+   ![Screen Shot 2020-03-24 at 11.07.15 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-11-08-07-Screen%20Shot%202020-03-24%20at%2011.07.15%20AM.png)
+   
+   You need to define these:
+   
+   - the **source** 
+   
+   - the **account** we just added
+   
+   - the **flow** ( which vertical, geo and device ?
+   
+   - the **[integration](#integration)**, which is the kind of safe page you want to use. You either have wordpress ( an article as safe page ) or a reverse proxy ( where you can use any external website as your safe page) more on that later..
+   
+   - [Domain](#domain). For the domain, if you already have domain available in your base, you can assign manually. If you don't and need a new domain, click on deploy ( this will assign you a new domain based on your settings)
+     
+     ![Screen Shot 2020-03-24 at 11.10.44 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-11-11-01-Screen%20Shot%202020-03-24%20at%2011.10.44%20AM.png)
+     
+     That's all. Once you get a domain, you will see your campaign URL. 
+     All is ready, you can use it in your traffic source.
+     
+     ![Screen Shot 2020-03-24 at 11.11.41 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-11-11-46-Screen%20Shot%202020-03-24%20at%2011.11.41%20AM.png)
+     
+     The last step is to activate your campaign after the traffic source approved it.
+     
+     ![Screen Shot 2020-03-24 at 11.12.43 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-11-13-06-Screen%20Shot%202020-03-24%20at%2011.12.43%20AM.png)
 
-Then you can make your first campaign, for that you need to select:
 
-1. the traffic source
 
-2. the account
 
-3. the flow ( which vertical, geo and device ?
-
-4. the integration ( how to integrate the safe page ? )
-
-Finally you click on deploy to assign a domain name to your campaign
 
 # Campaign
 
@@ -70,13 +90,9 @@ Deploy a campaign
 
 ## Campaign scheduler
 
-Campaign scheduler auto start and auto pause campaign the time and day you choose.
+Campaign scheduler is a bot that will auto start and auto pause campaign on the time and day you choosed.
 
-It's useful because most of the offers have ON hours where you get most of the traffic and higher CR
-
-Letting campaign live at night increase the risk of getting your campaign banned.
-
-Think about it by scheduling your campaign between 8h - 20h local time you reduce risk by 50%
+It's useful because most of the offers have ON hours where you get most of the traffic and higher CR. Letting campaign live at night increase the risk of getting your campaign banned. Scheduling your campaign reduce risk of getting banned by 50%
 
 ![Screen Shot 2020-03-18 at 11.12.20 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/20-15-49-12-Screen%20Shot%202020-03-18%20at%2011.12.20%20AM.png)
 
@@ -90,8 +106,7 @@ The timezone is UTC so you need to adjust based on that.
 What else to know:
 
 - The scheduler run every 30min, so don't set 9:15 as it will count as 9:30 anyway
-- It will activate/pause only one time per day, so if the bot active the campaign at 8:00 and you pause it manually at 10:00, scheduler won't activate your campaign again for that day ( normal behavior )
-- You need to tick the box schedule to make the bot active.
+- Make sure to tick the box schedule to make the bot active.
 
 # Lander
 

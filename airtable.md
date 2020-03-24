@@ -6,21 +6,20 @@ Content
 
 # Quick start
 
+WATCH THIS
+https://www.loom.com/share/e1addf50bad84d14931278356e52126d
+
 ### What is this?
 
 *Blackflow is the backend that bring all the piece of the puzzle together ( source, account, domain, safe page, money page, offer, cloaking, tracking )*
 
-**What is this dashboard**? It's built on top of airtable. If you didn't know, airtable is part spreadsheet, part database and incredibly smooth and flexible. The best way to understand is to watch their 2min [product tour](%5Bhttps://airtable.com/product%5D(https://airtable.com/product)
+**What is this dashboard**? It's built on top of airtable. If you didn't know, airtable is part spreadsheet, part database and incredibly smooth and flexible. The best way to understand is to watch their 2min [product tour](https://airtable.com/product)
 
 This dashboard is designed for big user managing 10-100+ accounts. For a simpler version, you can ask us to switch to the classic dashboard.
-
-
 
 ## How to start?
 
 Alright, lets get a quick overview of airtable.
-
-
 
 ![Screen Shot 2020-03-24 at 10.53.53 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-10-58-14-Screen%20Shot%202020-03-24%20at%2010.53.53%20AM.png)
 
@@ -65,10 +64,6 @@ You have **view** which is just a way to show or hide a set of column, so you ca
      
      ![Screen Shot 2020-03-24 at 11.12.43 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-11-13-06-Screen%20Shot%202020-03-24%20at%2011.12.43%20AM.png)
 
-
-
-
-
 # Campaign
 
 Deploy a campaign
@@ -96,8 +91,6 @@ What else to know:
 # Lander
 
 ### How to add safe page
-
-coming soon
 
 ### How to add money page
 

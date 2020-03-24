@@ -1,23 +1,8 @@
-Manual
+Content
 
-# Content
+[quick start](#quick start), [scheduler,](#scheduler) [integration](#integration), [domain](#domain)
 
-[quick start](#quick start)
-
-campaign
-
-- [scheduler](#scheduler)
-- [integration](#integration)
-
-[domain](#domain)
-
-[lander](#lander)
-
-- money page
-
-- safe page
-
-[offer](#offer)
+[lander](#lander), [offer](#offer)
 
 # Quick start
 
@@ -25,17 +10,17 @@ campaign
 
 *Blackflow is the backend that bring all the piece of the puzzle together ( source, account, domain, safe page, money page, offer, cloaking, tracking )*
 
-**What is this dashboard**? It's built on top of airtable. If you didn't know, airtable is a part spreadsheet, part database and incredibly smooth and flexible. 
+**What is this dashboard**? It's built on top of airtable. If you didn't know, airtable is part spreadsheet, part database and incredibly smooth and flexible. The best way to understand is to watch their 2min [product tour](%5Bhttps://airtable.com/product%5D(https://airtable.com/product)
 
-This dashboard is designed for big user managing 10-100+ accounts. For a simpler version, you can ask us to switch to the more simple dashboard.
+This dashboard is designed for big user managing 10-100+ accounts. For a simpler version, you can ask us to switch to the classic dashboard.
 
-![Screen Shot 2020-03-24 at 10.36.15 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-10-36-19-Screen%20Shot%202020-03-24%20at%2010.36.15%20AM.png)
+
 
 ## How to start?
 
 Alright, lets get a quick overview of airtable.
 
-If you are new to airtbable, best way is to see their 2min [product tour ]([https://airtable.com/product](https://airtable.com/product)
+
 
 ![Screen Shot 2020-03-24 at 10.53.53 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-10-58-14-Screen%20Shot%202020-03-24%20at%2010.53.53%20AM.png)
 
@@ -45,7 +30,7 @@ Your got different **tables** ( the piece of the puzzle ): account, domain ect..
 
 You have **view** which is just a way to show or hide a set of column, so you can focus on current task ( setting up campaign, sceduling etc...). You can create your own view, and customize it for your VA.
 
-Let's set up your first campaign
+### Let's set up your first campaign
 
 1. Start by adding an account.
    
@@ -123,3 +108,5 @@ coming soon
 ### How to add offers
 
 coming soon
+
+#### classic dashboard
